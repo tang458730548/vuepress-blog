@@ -5,22 +5,31 @@
   "main": "index.js",
   "author": "tsc",
   "license": "MIT",
-  "devDependencies": {
-    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.13",
-    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
-    "@vuepress/plugin-back-to-top": "^1.9.7",
-    "vuepress": "^1.9.7",
-    "vuepress-plugin-nuggets-style-copy": "^1.0.3"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-nprogress": "^1.9.7",
     "moment": "^2.29.4",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-copyright": "^1.0.2",
     "vuepress-plugin-cursor-effects": "^1.1.4"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tang458730548/vuepress-blog.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tang458730548/vuepress-blog/issues"
+  },
+  "homepage": "https://github.com/tang458730548/vuepress-blog#readme"
 }
