@@ -4,7 +4,7 @@ heroImage: /favicon.svg
 heroText: 学习笔记
 tagline: 
 actionText:  开始学习之旅
-actionLink: /Java/基础部分/01、JAVA基础
+actionLink: /JAVA技术/基础部分/01基础语法
 features:
 - title: 简介
   details: 该博客采用vuepress搭建。长路漫漫,惟剑做伴。且随疾风前行,身后亦需留心。这一次,我的心不再动摇。
