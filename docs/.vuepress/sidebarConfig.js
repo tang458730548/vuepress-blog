@@ -101,5 +101,27 @@ module.exports = {
                 }
             ]
         }
-    ]
+    ],
+
+    '/漏洞解决/': [
+        {
+            title: '漏洞解决',
+            children: [
+                {
+                    title: '2022',
+                    children: [
+                        {
+                            title: '07月',
+                            path: '/漏洞解决/2022/07月'
+                        }
+                    ]
+                },
+                {
+                    title: '2023',
+                    children: [
+                    ]
+                },
+            ]
+        },
+    ],
 }

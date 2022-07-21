@@ -12,7 +12,8 @@ module.exports = [
         ariaLabel: '软件下载',
         items: [
             { text: 'JDK', link: '/软件下载/02JDK', target: '_blank', rel: '' },
-            { text: 'Nginx', link: '/软件下载/01Nginx', target: '_blank', rel: '' }
+            { text: 'Nginx', link: '/软件下载/01Nginx', target: '_blank', rel: '' },
+            { text: '漏洞', link: '/漏洞解决/2022/07月'} 
         ]
     },
     {
