@@ -77,6 +77,15 @@ module.exports = {
                         },
                     ]
                 },
+                {
+                    title: 'SpringCloud',
+                    children: [
+                        {
+                            title: 'SpringCloud',
+                            path: '/JAVA技术/SpringCloud/SpringCloud'
+                        },
+                    ]
+                }
             ]
         },
     ],
