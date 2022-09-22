@@ -81,8 +81,21 @@ module.exports = {
                     title: 'SpringCloud',
                     children: [
                         {
-                            title: 'SpringCloud',
-                            path: '/JAVA技术/SpringCloud/SpringCloud'
+                            title: '前言',
+                            path: '/JAVA技术/SpringCloud/前言'
+                        },
+                        {
+                            title: '搭建Maven私服',
+                            path: '/JAVA技术/SpringCloud/搭建Maven私服'
+                        },
+                    ]
+                },
+                {
+                    title: 'Linux',
+                    children: [
+                        {
+                            title: '01升级CentOS8为Rocky Linux',
+                            path: '/JAVA技术/Linux/01升级CentOS8为Rocky Linux'
                         },
                     ]
                 }
