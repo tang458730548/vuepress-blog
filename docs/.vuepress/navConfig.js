@@ -8,13 +8,21 @@ module.exports = [
         ]
     },
     {
+        text: '工作中的问题', ariaLabel: '工作中的问题', items: [
+            {text: '数据操作',link: '/工作中的问题/2023/数据操作'},
+            {text: 'Linux',link: '/工作中的问题/2023/Linux'},
+            {text: '其他',link: '/工作中的问题/2023/其他'}
+        ]
+    },
+    {
         text: '软件下载',
         ariaLabel: '软件下载',
         items: [
             { text: 'JDK', link: '/软件下载/02JDK', target: '_blank', rel: '' },
             { text: 'Nginx', link: '/软件下载/01Nginx', target: '_blank', rel: '' },
-            { text: '漏洞', link: '/漏洞解决/2022/07月'} 
+            { text: 'Mysql', link: '/软件下载/03Mysql', target: '_blank', rel: '' },
         ]
+        // { text: '漏洞', link: '/漏洞解决/2022/07月'} 
     },
     {
         text: '个人资源',

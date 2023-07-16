@@ -17,13 +17,13 @@ module.exports = [
         shape: 'star', // ['star' | 'circle'], // shape of the particle, default: 'star'
         zIndex: 999999999, // z-index property of the canvas, default: 999999999
     }],
-    [
-        'copyright',
-        {
-            authorName: 'tangsc', // 选中的文字将无法被复制
-            minLength: 30, // 如果长度超过  30 个字符
-        },
-    ],
+    // [
+    //     'copyright',
+    //     {
+    //         authorName: 'tangsc', // 选中的文字将无法被复制
+    //         minLength: 30, // 如果长度超过  30 个字符
+    //     },
+    // ],
     [
         '@vuepress-reco/vuepress-plugin-kan-ban-niang',
         {

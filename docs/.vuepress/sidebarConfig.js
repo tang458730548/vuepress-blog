@@ -150,4 +150,33 @@ module.exports = {
             ]
         },
     ],
+
+    '/工作中的问题/': [
+        {
+            title: '工作中的问题',
+            children: [
+                {
+                    title: '2023',
+                    children: [
+                        {
+                            title: '数据操作',
+                            path: '/工作中的问题/2023/数据操作'
+                        },
+                        {
+                            title: 'Linux',
+                            path: '/工作中的问题/2023/Linux'
+                        },
+                        {
+                            title: '其他',
+                            path: '/工作中的问题/2023/其他'
+                        },
+                        {
+                            title: 'JXCP',
+                            path: '/工作中的问题/2023/JXCP'
+                        }
+                    ]
+                },
+            ]
+        },
+    ],
 }
