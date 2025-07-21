@@ -2,18 +2,16 @@ module.exports = [
     { text: '首页', link: '/' },
     {
         text: '学习', ariaLabel: '学习', items: [
-            { text: 'JAVA技术', link: '/JAVA技术/基础部分/前言' },
-            { text: '前端技术', link: '/前端技术/前言' },
-            { text: '生活感悟', link: '/生活感悟/2022-7-7' }
+            { text: 'JAVA技术', link: '/JAVA技术/基础部分/Java基础（上）' },
         ]
     },
-    {
-        text: '工作中的问题', ariaLabel: '工作中的问题', items: [
-            {text: '数据操作',link: '/工作中的问题/2023/数据操作'},
-            {text: 'Linux',link: '/工作中的问题/2023/Linux'},
-            {text: '其他',link: '/工作中的问题/2023/其他'}
-        ]
-    },
+    // {
+    //     text: '工作中的问题', ariaLabel: '工作中的问题', items: [
+    //         {text: '数据操作',link: '/工作中的问题/2023/数据操作'},
+    //         {text: 'Linux',link: '/工作中的问题/2023/Linux'},
+    //         {text: '其他',link: '/工作中的问题/2023/其他'}
+    //     ]
+    // },
     {
         text: '软件下载',
         ariaLabel: '软件下载',
@@ -29,7 +27,7 @@ module.exports = [
         ariaLabel: '个人资源',
         items: [
             { text: '博客园', link: 'https://www.cnblogs.com/tangsc/', target: '_blank', rel: '' },
-            { text: 'Github', link: 'https://github.com/tang458730548/', target: '_blank', rel: '' }
+            { text: 'Github', link: 'https://github.com/tang458730548/', target: '_blank', rel: '' },
         ]
     }
 ]

@@ -4,7 +4,7 @@ heroImage: /favicon.svg
 heroText: 学习笔记
 tagline: 
 actionText:  开始学习之旅
-actionLink: /JAVA技术/基础部分/01基础语法
+actionLink: /JAVA技术/从0到1搭建一个前后端项目/搭建后端springboot项目
 features:
 - title: 简介
   details: 该博客采用vuepress搭建。长路漫漫,惟剑做伴。且随疾风前行,身后亦需留心。这一次,我的心不再动摇。
@@ -20,3 +20,4 @@ sidebarDepth: 3
 ## 友情链接
 - [:tada: 1、简书](http://jianshu.com)
 - [:tada: 2、百度](http://baidu.com)
+- [:tada: 3、ChatGPT](https://tangsc.top/)
